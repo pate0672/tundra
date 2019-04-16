@@ -1,0 +1,78 @@
+.page{
+    display: none;
+}
+.active{
+    display: block;
+}
+#page1{
+    text-align: center;
+    background-color: whitesmoke;
+}
+#profiles{
+    text-align: center;
+    border: 8px solid gray;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    background-color: white;
+}
+#page2{
+    text-align: center;
+    background-color: whitesmoke;
+}
+#Homepgj{
+    background-color: white;
+    color: palevioletred;
+    
+}
+#SavedPgj{
+    background-color: white;
+    color: palevioletred;
+    width: 50%;
+    font-size: 1.5rem;
+}
+#Home{
+    background-color: white;    
+    color: gray;
+}
+#SavedPg{
+    background-color: white;
+    color: gray;
+    width: 50%;
+    font-size: 1.5rem;
+}
+#tundra{
+    background-color: white;
+    color: palevioletred;
+    border-bottom: 0.5px solid lightgrey;
+}
+h4{
+    color: palevioletred;
+}
+.photo{
+    margin-top: 1rem;
+    
+}
+.nameone{
+    margin-top: 0.5rem;
+}
+.gender{
+    margin-top: 1rem;
+    color: gray;
+}
+#Homepgj:hover{
+    color: palevioletred;
+}
+#SavedPg:hover{
+    color: palevioletred;
+}
+#Home:hover{
+    color: palevioletred;
+}
+#SavedPgj:hover{
+    color: palevioletred;
+}
+
+h2{
+    text-decoration-line: underline;
+}
